@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import org.junit.Before;
 import org.junit.Test;
 
-public class GameOfLifeGridTest extends TestCase {
+public class GameOfLifeTest extends TestCase {
 	
 	private GameOfLifeGrid g1, g2;
 
